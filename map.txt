@@ -9,6 +9,9 @@
 U: Akiekano <akiekano@gnuweeb.org>
 P: B6113CC169B711DCA0ADA5B05C0A857461C4EC32.asc
 
+U: Alviro Iskandar Setiawan <alviro.iskandar@gnuweeb.org>
+P: A23ABA9C0A9E9B86E605E342570B851D78697469.asc
+
 U: Alviro Iskandar Setiawan <alviro@gnuweeb.org>
 P: 7309F976C75340E3DA7A94779FC8863C6E2EF19D.asc
 
@@ -50,4 +53,4 @@ P: C92F25246B8C8546E6441149E8836E7712EA3305.asc
 U: mdv16h <deo@gnuweeb.org>
 P: 0CDE97A14228A94FF3331B64F15D5AA1A4865B8C.asc
 
-# Generated at: 2022-01-11T10:35:57+00:00
+# Generated at: 2022-02-10T07:50:16+00:00
