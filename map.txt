@@ -50,6 +50,12 @@ P: 42C1F7C64A926D4B4CF8AF7B5B41A5155041A3BE.asc
 U: Hazmi Alfarizqi (Hazmi35 / hzmi / hzmi35) <hzmi@gnuweeb.org>
 P: 42C1F7C64A926D4B4CF8AF7B5B41A5155041A3BE.asc
 
+U: Hazmi Alfarizqi (Hazmi35 / hzmi35 / hzmi) <contact@hzmi.xyz>
+P: ED9A91C59EDABBE1977C848BA19B0054411EC812.asc
+
+U: Hazmi Alfarizqi (Hazmi35 / hzmi35 / hzmi) <hzmi@gnuweeb.org>
+P: ED9A91C59EDABBE1977C848BA19B0054411EC812.asc
+
 U: Hendra Manudinata <manudinath@gnuweeb.org>
 P: 312964E54BB32519D9FFEB0BCB14B14B515814EF.asc
 
@@ -65,4 +71,4 @@ P: C92F25246B8C8546E6441149E8836E7712EA3305.asc
 U: mdv16h <deo@gnuweeb.org>
 P: 0CDE97A14228A94FF3331B64F15D5AA1A4865B8C.asc
 
-# Generated at: 2022-05-03T16:16:34+00:00
+# Generated at: 2022-06-03T14:32:09+00:00
