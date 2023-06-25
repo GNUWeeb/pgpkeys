@@ -1,0 +1,52 @@
+name: Automated pgpkeys format fix & update map.txt
+
+on:
+  push:
+    paths:
+      - "keys/*"
+  schedule:
+    - cron: "0 0 * * *"
+
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+        - name: Checkout repository
+          uses: actions/checkout@v3
+        - name: Fix key formatting
+          run: ./fix.sh
+        - name: Commit and push changes
+          run: |
+            git config --local user.name "pgpkeys[bot]"
+            git config --local user.email "pgpkeys[bot]@users.noreply.github.com"
+            git add keys/*
+            git diff-index --quiet HEAD || git commit -m "chore: fix key formatting"
+            git push
+  update-map:
+    runs-on: ubuntu-latest
+    needs: fix
+    steps:
+        - name: Checkout repository
+          uses: actions/checkout@v3
+        - name: Set up Python
+          uses: actions/setup-python@v4
+          with:
+            python-version: "3.x"
+        - name: Install dependencies
+          run: |
+            python -m pip install --upgrade pip
+            pip install -r requirements.txt
+        - name: Update map.txt
+          run: python genmap.py
+        - name: Commit and push changes
+          run: |
+            git config --local user.name "pgpkeys[bot]"
+            git config --local user.email "pgpkeys[bot]@users.noreply.github.com"
+            git pull
+            git add map.txt
+            git commit -m "chore: update mapping"
+            if [ -n "$(git diff HEAD^ map.txt | grep -E '^[+-]\s*(U:|W:|P:)')" ]; then git push; fi
