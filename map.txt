@@ -3,72 +3,102 @@
 # GNU/Weeb developer PGP keys
 #
 # U = User
+# W = Web Key Directory email local part hash
 # P = Public key file
 #
 
 U: Alviro Iskandar Setiawan <alviro.iskandar@gnuweeb.org>
+W: i1ay75wox3dfwuin3ekohjt33y4e68je
 P: A23ABA9C0A9E9B86E605E342570B851D78697469.asc
 
 U: Alviro Iskandar Setiawan <alviro@gnuweeb.org>
+W: tgbokrjco7d5z9k6j343a8nji4c3qsme
 P: 7309F976C75340E3DA7A94779FC8863C6E2EF19D.asc
 
 U: Ammar Faizi <ammarfaizi2@gmail.com>
+W: iyug8ridfg1hxppmuyieuft3di45cohq
 P: 2FD0C09EB80DB93A7484F545A01EDC09AA8ABA95.asc
-P: 9CF147792F670851CC899B94CC8CDAF7A2DC6FE8.asc
 P: A57E79EB635C3ED4B403C102D4BBA3279003375B.asc
+P: 9CF147792F670851CC899B94CC8CDAF7A2DC6FE8.asc
 
 U: Ammar Faizi <ammarfaizi2@gnuweeb.org>
+W: iyug8ridfg1hxppmuyieuft3di45cohq
 P: E893726DC8E4C0DE3BA20107364FBA34FF170A4B.asc
 
 U: Arthur Lapz <rlapz@gnuweeb.org>
+W: 86indtcyyj635jdm6y14ibdgf9p3azpy
 P: 34D564F2B42B86239321405677F7D3EC34872326.asc
 
 U: Bayu Satiyo (kiraio) <itsyuukunz@gmail.com>
+W: j5mr9drawju4gysbqq8zqfztimkzj5m9
 P: C28135D25F03E121F4AB8F0A3C98876626C85FE3.asc
 
 U: Bedirhan KURT <windowz414@gnuweeb.org>
+W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
 P: 190F5D054233A5B0ECB4623D7E08DB782295F016.asc
 
 U: Beru Shinsetsu <windowz414@1337.lgbt>
+W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
 P: 651EC831C3C0B94F4B1AF8C7AB4E40830F61899A.asc
 
 U: Beru Shinsetsu <windowz414@gnuweeb.org>
+W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
 P: E27C5B95A57B58173E60F8D74F4D43EA8A6D3411.asc
 
 U: Beru Shinsetsu <windowz414@projectkasumi.xyz>
+W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
 P: 0BFAFC7BCE1CA94BF6E305B0A5E283D74F4DEF69.asc
 
 U: Doni Setiawan <ecxalty@gnuweeb.org>
+W: zjfpo64ibp8bb6gtpjxfb78zd9t65pak
 P: 8B0A9E02258B25F095A17E0C477471F51EACF860.asc
 
 U: Fernanda Ma'rouf <fernandafmr2@gmail.com>
+W: ekzda1jz77yem61mrpxi6n9ta9tsx15t
 P: 80740F96D0D879E6C29D768CD7C8AD662A42F308.asc
 
 U: Hazmi Alfarizqi (Hazmi35 / hzmi / hzmi35) <contact@hzmi.xyz>
+W: dj3498u4hyyarh35rkjfnghbjxug6b19
 P: 42C1F7C64A926D4B4CF8AF7B5B41A5155041A3BE.asc
 
 U: Hazmi Alfarizqi (Hazmi35 / hzmi / hzmi35) <hzmi@gnuweeb.org>
+W: iy8tatkxor4nbmzcbq8stnx34w3uhjof
 P: 42C1F7C64A926D4B4CF8AF7B5B41A5155041A3BE.asc
 
-U: Hazmi Alfarizqi (Hazmi35 / hzmi35 / hzmi) <contact@hzmi.xyz>
+U: Hazmi Alfarizqi <contact@hzmi.xyz>
+W: dj3498u4hyyarh35rkjfnghbjxug6b19
 P: ED9A91C59EDABBE1977C848BA19B0054411EC812.asc
 
-U: Hazmi Alfarizqi (Hazmi35 / hzmi35 / hzmi) <hzmi@gnuweeb.org>
+U: Hazmi Alfarizqi <hzmi@gnuweeb.org>
+W: iy8tatkxor4nbmzcbq8stnx34w3uhjof
+P: ED9A91C59EDABBE1977C848BA19B0054411EC812.asc
+
+U: Hazmi35 <contact@hzmi.xyz>
+W: dj3498u4hyyarh35rkjfnghbjxug6b19
 P: ED9A91C59EDABBE1977C848BA19B0054411EC812.asc
 
 U: Hendra Manudinata <manudinath@gnuweeb.org>
+W: 49uh4s6dszri9kxw7asrxq5w6s9e7ewf
 P: 312964E54BB32519D9FFEB0BCB14B14B515814EF.asc
 
 U: Irvan Malik <irvanmalik48@gmail.com>
+W: ncbuhh5xjffd1hsoxkehq7spkun8k8ax
 P: 68050F62E9822ACD75E5000F73610410C2D6823F.asc
 
 U: Sprite <sprite@gnuweeb.org>
+W: 73t4onksdess9ch7o1356uci98dq1hkg
 P: 50713F81DC2B8C208009E925C38F59C1306A6E8F.asc
 
 U: Wind/owZ <windowz414@gnuweeb.org>
+W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
 P: C92F25246B8C8546E6441149E8836E7712EA3305.asc
 
+U: hzmi <contact@hzmi.xyz>
+W: dj3498u4hyyarh35rkjfnghbjxug6b19
+P: ED9A91C59EDABBE1977C848BA19B0054411EC812.asc
+
 U: mdv16h <deo@gnuweeb.org>
+W: 7df843eb3tj61okqkcjabo1wknx8djbd
 P: 0CDE97A14228A94FF3331B64F15D5AA1A4865B8C.asc
 
-# Generated at: 2022-06-10T12:18:53+00:00
+# Generated at: 2023-06-16T08:49:47.174217
