@@ -17,9 +17,9 @@ P: 7309F976C75340E3DA7A94779FC8863C6E2EF19D.asc
 
 U: Ammar Faizi <ammarfaizi2@gmail.com>
 W: iyug8ridfg1hxppmuyieuft3di45cohq
+P: 9CF147792F670851CC899B94CC8CDAF7A2DC6FE8.asc
 P: 2FD0C09EB80DB93A7484F545A01EDC09AA8ABA95.asc
 P: A57E79EB635C3ED4B403C102D4BBA3279003375B.asc
-P: 9CF147792F670851CC899B94CC8CDAF7A2DC6FE8.asc
 
 U: Ammar Faizi <ammarfaizi2@gnuweeb.org>
 W: iyug8ridfg1hxppmuyieuft3di45cohq
@@ -33,9 +33,9 @@ U: Bayu Satiyo (kiraio) <itsyuukunz@gmail.com>
 W: j5mr9drawju4gysbqq8zqfztimkzj5m9
 P: C28135D25F03E121F4AB8F0A3C98876626C85FE3.asc
 
-U: Bedirhan KURT <windowz414@gnuweeb.org>
-W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
-P: 190F5D054233A5B0ECB4623D7E08DB782295F016.asc
+U: Beru Krugermeier <shinsetsuberu@gmail.com>
+W: rhcqxup5eyyixox89g9cjwn11se3fpoz
+P: 7E33D050090E909D1AAE65FF9776BB96842EA693.asc
 
 U: Beru Shinsetsu <windowz414@1337.lgbt>
 W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
@@ -73,6 +73,14 @@ U: Hazmi Alfarizqi <hzmi@gnuweeb.org>
 W: iy8tatkxor4nbmzcbq8stnx34w3uhjof
 P: ED9A91C59EDABBE1977C848BA19B0054411EC812.asc
 
+U: Hazmi35 (Just someone who likes to create useless apps. | https://hzmi.xyz/) <contact@hzmi.xyz>
+W: dj3498u4hyyarh35rkjfnghbjxug6b19
+P: 42C1F7C64A926D4B4CF8AF7B5B41A5155041A3BE.asc
+
+U: Hazmi35 (Just someone who likes to create useless apps. | https://hzmi.xyz/) <contacthzmi@gmail.com>
+W: bsurygx4u153ci7uzddhp7qh14auudbb
+P: 42C1F7C64A926D4B4CF8AF7B5B41A5155041A3BE.asc
+
 U: Hazmi35 <contact@hzmi.xyz>
 W: dj3498u4hyyarh35rkjfnghbjxug6b19
 P: ED9A91C59EDABBE1977C848BA19B0054411EC812.asc
@@ -101,4 +109,4 @@ U: mdv16h <deo@gnuweeb.org>
 W: 7df843eb3tj61okqkcjabo1wknx8djbd
 P: 0CDE97A14228A94FF3331B64F15D5AA1A4865B8C.asc
 
-# Generated at: 2023-06-16T08:49:47.174217
+# Generated at: 2023-08-04T13:45:55.293177
