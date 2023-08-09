@@ -37,6 +37,10 @@ U: Beru Krugermeier <shinsetsuberu@gmail.com>
 W: rhcqxup5eyyixox89g9cjwn11se3fpoz
 P: 7E33D050090E909D1AAE65FF9776BB96842EA693.asc
 
+U: Beru Krugermeier <windowz414@gnuweeb.org>
+W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
+P: AA47A8177DF09A95F874C0553C5BA26A01E90135.asc
+
 U: Beru Shinsetsu <windowz414@1337.lgbt>
 W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
 P: 651EC831C3C0B94F4B1AF8C7AB4E40830F61899A.asc
@@ -109,4 +113,4 @@ U: mdv16h <deo@gnuweeb.org>
 W: 7df843eb3tj61okqkcjabo1wknx8djbd
 P: 0CDE97A14228A94FF3331B64F15D5AA1A4865B8C.asc
 
-# Generated at: 2023-08-04T13:45:55.293177
+# Generated at: 2023-08-09T12:07:49.774842
