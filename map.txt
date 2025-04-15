@@ -7,18 +7,20 @@
 # P = Public key file
 #
 
+U: Alviro Iskandar Setiawan <alviro.iskandar@gmail.com>
+W: i1ay75wox3dfwuin3ekohjt33y4e68je
+P: 6A03B99D919C8EF484278256B2FF1F670A3E7FFB.asc
+P: A8D14B645B4FB4E87E249C97C0CB8D83B27F71BC.asc
+
 U: Alviro Iskandar Setiawan <alviro.iskandar@gnuweeb.org>
 W: i1ay75wox3dfwuin3ekohjt33y4e68je
-P: A23ABA9C0A9E9B86E605E342570B851D78697469.asc
-
-U: Alviro Iskandar Setiawan <alviro@gnuweeb.org>
-W: tgbokrjco7d5z9k6j343a8nji4c3qsme
-P: 7309F976C75340E3DA7A94779FC8863C6E2EF19D.asc
+P: 6A03B99D919C8EF484278256B2FF1F670A3E7FFB.asc
+P: A8D14B645B4FB4E87E249C97C0CB8D83B27F71BC.asc
 
 U: Ammar Faizi <ammarfaizi2@gmail.com>
 W: iyug8ridfg1hxppmuyieuft3di45cohq
-P: 9CF147792F670851CC899B94CC8CDAF7A2DC6FE8.asc
 P: 2FD0C09EB80DB93A7484F545A01EDC09AA8ABA95.asc
+P: 9CF147792F670851CC899B94CC8CDAF7A2DC6FE8.asc
 P: A57E79EB635C3ED4B403C102D4BBA3279003375B.asc
 
 U: Ammar Faizi <ammarfaizi2@gnuweeb.org>
@@ -32,26 +34,6 @@ P: 34D564F2B42B86239321405677F7D3EC34872326.asc
 U: Bayu Satiyo (kiraio) <itsyuukunz@gmail.com>
 W: j5mr9drawju4gysbqq8zqfztimkzj5m9
 P: C28135D25F03E121F4AB8F0A3C98876626C85FE3.asc
-
-U: Beru Krugermeier <shinsetsuberu@gmail.com>
-W: rhcqxup5eyyixox89g9cjwn11se3fpoz
-P: 7E33D050090E909D1AAE65FF9776BB96842EA693.asc
-
-U: Beru Krugermeier <windowz414@gnuweeb.org>
-W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
-P: AA47A8177DF09A95F874C0553C5BA26A01E90135.asc
-
-U: Beru Shinsetsu <windowz414@1337.lgbt>
-W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
-P: 651EC831C3C0B94F4B1AF8C7AB4E40830F61899A.asc
-
-U: Beru Shinsetsu <windowz414@gnuweeb.org>
-W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
-P: E27C5B95A57B58173E60F8D74F4D43EA8A6D3411.asc
-
-U: Beru Shinsetsu <windowz414@projectkasumi.xyz>
-W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
-P: 0BFAFC7BCE1CA94BF6E305B0A5E283D74F4DEF69.asc
 
 U: Doni Setiawan <ecxalty@gnuweeb.org>
 W: zjfpo64ibp8bb6gtpjxfb78zd9t65pak
@@ -101,10 +83,6 @@ U: Sprite <sprite@gnuweeb.org>
 W: 73t4onksdess9ch7o1356uci98dq1hkg
 P: 50713F81DC2B8C208009E925C38F59C1306A6E8F.asc
 
-U: Wind/owZ <windowz414@gnuweeb.org>
-W: emnp6chkxb5qtr4jq6wks61rprt1cf5b
-P: C92F25246B8C8546E6441149E8836E7712EA3305.asc
-
 U: hzmi <contact@hzmi.xyz>
 W: dj3498u4hyyarh35rkjfnghbjxug6b19
 P: ED9A91C59EDABBE1977C848BA19B0054411EC812.asc
@@ -113,4 +91,4 @@ U: mdv16h <deo@gnuweeb.org>
 W: 7df843eb3tj61okqkcjabo1wknx8djbd
 P: 0CDE97A14228A94FF3331B64F15D5AA1A4865B8C.asc
 
-# Generated at: 2023-08-09T12:07:49.774842
+# Generated at: 2025-04-15T04:02:37.902710
